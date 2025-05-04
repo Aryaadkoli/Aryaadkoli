@@ -5,10 +5,10 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm an **ECE graduate** with a **minor in Computer Science**
-- 💻 Passionate about **Full Stack Development**, **Machine Learning**, and **Embedded Systems**
-- 🚀 Building real-world solutions that bridge hardware and software  
-- 🎯 Goal: Create scalable, meaningful technology that impacts lives
+- I'm an **ECE graduate** with a **minor in Computer Science**
+- Passionate about **Full Stack Development**, **Machine Learning**, and **Embedded Systems**
+- Building real-world solutions that bridge hardware and software  
+- Goal: Create scalable, meaningful technology that impacts lives
 
 ---
 
@@ -45,20 +45,20 @@
 
 ### 🌱 Currently Learning
 
-- 🌐 Advanced system design & architecture
-- 🔍 DevOps (Docker, CI/CD)  
-- 🛜 Networking protocols in embedded systems
-- ⚙️ Backend development with Spring Boot and PostgreSQL
-- 🔄 Microservices architecture and RESTful APIs
-- 🧑‍💻 Building scalable systems with Docker and Kubernetes
+- Advanced system design & architecture
+- DevOps (Docker, CI/CD)  
+- Networking protocols in embedded systems
+- Backend development with Spring Boot and PostgreSQL
+- Microservices architecture and RESTful APIs
+- Building scalable systems with Docker and Kubernetes
 
 ---
 
 ### 📫 How to reach me
 
-- 📧 **aryaadkoli@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aryaadkoli)  
-- 🧠 [GitHub Projects](https://github.com/Aryaadkoli?tab=repositories)
+- **aryaadkoli@gmail.com**  
+- [LinkedIn](https://www.linkedin.com/in/aryaadkoli)  
+- [GitHub Projects](https://github.com/Aryaadkoli?tab=repositories)
 
 ---
 
