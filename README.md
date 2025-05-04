@@ -1,11 +1,5 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Arya R Adkoli</h1>
 <h3 align="center">Engineer | Full-Stack Developer | Embedded Systems Enthusiast | AI/ML Explorer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryaadkoli&label=Profile%20views&color=0e75b6&style=flat" alt="aryaadkoli" />
-</p>
 
 ---
 
