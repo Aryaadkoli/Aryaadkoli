@@ -30,7 +30,7 @@
 ![Vivado](https://img.shields.io/badge/Vivado-FFB91D?style=flat-square&logoColor=black)
 
 #### 📊 Data Science & Analysis  
-![AI & ML](https://img.shields.io/badge/AI%20Libraries-FF6F00?style=flat-square) 
+![ML Libraries](https://img.shields.io/badge/ML%20Libraries-FF6F00?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
