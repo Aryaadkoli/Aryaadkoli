@@ -45,9 +45,12 @@
 
 ### 🌱 Currently Learning
 
-- 🔍 DevOps (Docker, CI/CD with TeamCity)  
-- 🛜 Networking protocols in embedded systems  
 - 🌐 Advanced system design & architecture
+- 🔍 DevOps (Docker, CI/CD)  
+- 🛜 Networking protocols in embedded systems
+- ⚙️ Backend development with Spring Boot and PostgreSQL
+- 🔄 Microservices architecture and RESTful APIs
+- 🧑‍💻 Building scalable systems with Docker and Kubernetes
 
 ---
 
