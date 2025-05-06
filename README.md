@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arya R Adkoli</h1>
-<h3 align="center">Engineer | Full-Stack Developer | Embedded Systems Enthusiast | AI/ML Explorer</h3>
-
----
-
-### 🧠 About Me
-
-- I'm an **ECE graduate** with a **minor in Computer Science**
-- Passionate about **Full Stack Development**, **Machine Learning**, and **Embedded Systems**
-- Building real-world solutions that bridge hardware and software  
-- Goal: Create scalable, meaningful technology that impacts lives
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+I'm ##Arya, a software engineer in Bengaluru.
+I recently graduated with a degree in Electronics and Communication Engineering, complemented by a minor in Computer Science. My interests lie in full-stack development, embedded systems, and exploring the realms of AI and machine learning.
+I'm fascinated by large-scale, high-impact products and currently working on one such product in its' MVP stage
 
 ---
 
@@ -50,40 +43,3 @@
 - Backend development with Spring Boot and PostgreSQL
 - Microservices architecture and RESTful APIs
 - Building scalable systems with Docker and Kubernetes
-
----
-
-### 📫 How to reach me
-
-- **aryaadkoli@gmail.com**  
-- [LinkedIn](https://www.linkedin.com/in/aryaadkoli)  
-- [GitHub Projects](https://github.com/Aryaadkoli?tab=repositories)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryaadkoli&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaadkoli&theme=radical" />
-</p>
-
----
-<!--
-<p align="center">⚡ “Code what you believe. Build what you dream.”</p>
--->
-
-<!--
-**Aryaadkoli/Aryaadkoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
