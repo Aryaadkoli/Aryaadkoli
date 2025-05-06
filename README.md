@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-I'm ##Arya, a software engineer in Bengaluru.
+I'm Arya, a software engineer in Bengaluru.
 I recently graduated with a degree in Electronics and Communication Engineering, complemented by a minor in Computer Science. My interests lie in full-stack development, embedded systems, and exploring the realms of AI and machine learning.
 I'm fascinated by large-scale, high-impact products and currently working on one such product in its' MVP stage
 
