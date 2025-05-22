@@ -5,7 +5,7 @@ I'm fascinated by large-scale, high-impact products and currently working on one
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### Languages: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-0D1117?style=flat-square&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/System%20Verilog-0D1117?style=flat-square&logoColor=white)
 
@@ -17,7 +17,7 @@ I'm fascinated by large-scale, high-impact products and currently working on one
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - Advanced system design & architecture
 - DevOps (Docker, CI/CD)  
