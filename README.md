@@ -42,3 +42,50 @@ I look into every aspect of production and I am all about doing things right —
 I'm part of the founding team [@Parallel Parking Solutions Inc.](https://github.com/Parallel-Parking-Solutions-Inc).
 A startup where we’re engineering a full-scale smart parking automation system.  
 We have built everything from the ground up: backend, infra, CI/CD, analytics, internal tools, and admin dashboards.
+
+###
+
+<h2 align="left" style="font-size: 20px;">Publications & Research</h2>
+
+###
+
+<p style="font-size: 14px;">Some of my research work that explores the intersection of machine learning, embedded systems, and real-world applications:</p>
+
+<ul style="font-size: 14px;">
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/10547996" target="_blank">
+      Real-Time Intelligent Surveillance System
+    </a><br/>
+    <i>10th International Conference on Applied System Innovation (ICASI), IEEE, 2024</i>
+  </li>
+  <br/>
+  <li>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-97-4149-6_27" target="_blank">
+      Optimal Urban Emergency Routing Using Real-Time Audio Recognition and Graph Theory-Based Path Planning
+    </a><br/>
+    <i>International Conference On Innovative Computing And Communication, Springer, 2024</i>
+  </li>
+</ul>
+
+###
+
+<h2 align="left" style="font-size: 20px;">Industry Projects I've Contributed To</h2>
+
+###
+
+<ul style="font-size: 14px;">
+  <li>
+    <strong>Bosch Global Software Technologies — Summer Intern</strong><br/>
+    Configured and automated CAN frame setups for ECUs, delivering integration-ready solutions to an OEM and improving development efficiency.
+  </li>
+  <br/>
+  <li>
+    <strong>Bosch Global Software Technologies — Software Developer Intern</strong><br/>
+    Designed a real-time edge computing system for an OEM client and implemented ML-based analytics for tire condition monitoring, with mobile data visualization.
+  </li>
+  <br/>
+  <li>
+    <strong>PESU C-IoT — Machine Learning Intern</strong><br/>
+    Built a self-navigating vehicle using computer vision, and streamlined traffic sign data processing with Python and OpenCV.
+  </li>
+</ul>
