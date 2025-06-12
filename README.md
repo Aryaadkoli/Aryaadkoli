@@ -39,7 +39,7 @@ I look into every aspect of production and I am all about doing things right —
 
 ###
 
-I'm the Founding System Architect and Lead Engineer [@Parallel Parking Solutions Inc.](https://github.com/Parallel-Parking-Solutions-Inc).
+I'm the **Founding System Architect and Lead Engineer** [@Parallel Parking Solutions Inc.](https://github.com/Parallel-Parking-Solutions-Inc).
 A startup where we’re engineering a full-scale smart parking automation system. We have built everything from the ground up: backend, infra, CI/CD, analytics, internal tools, and admin dashboards.
 
 <details>
