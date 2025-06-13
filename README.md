@@ -1,6 +1,6 @@
 <h1 align="left">Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h1>
 
-i'm Arya. I design and build complete systems that are clean, fast, and built to scale.  
+I'm Arya. I design and build complete systems that are clean, fast, and built to scale.  
 I look into every aspect of production and I am all about doing things right — from architecture to implementation.
 
 ###
