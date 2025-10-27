@@ -30,8 +30,10 @@ I look into every aspect of production and I am all about doing things right —
 
 ###
 
-I'm the **Founding System Architect and Lead Engineer** [@Parallel Parking Solutions Inc.](https://github.com/Parallel-Parking-Solutions-Inc).
-A startup where we’re engineering a full-scale smart parking automation system. We have built everything from the ground up: backend, infra, CI/CD, analytics, internal tools, and admin dashboards.
+**Founding System Architect and Lead Engineer** [@Parallel Parking Solutions Inc.](https://github.com/Parallel-Parking-Solutions-Inc) - a startup reimagining urban mobility through full-scale smart parking automation.
+Architected and deployed the entire technology stack: backend systems, infrastructure, CI/CD pipelines, analytics engines, internal tools, and admin dashboards.
+
+Currently pursuing **M.Sc. in Computer Science at TU Dresden**.
 
 <details>
   <summary><h2>Publications & Research</h2></summary>
