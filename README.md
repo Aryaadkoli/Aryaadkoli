@@ -1,80 +1,87 @@
-<h1 align="left">Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=46&color=4E9A06&center=true&repeat=false&width=600&height=64&lines=arya+adkoli" alt="Arya Adkoli">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=800&pause=200&color=3465A4&multiline=true&repeat=false&width=560&height=170&lines=$+whoami;[ok]+software+engineer;[ok]+focus:+system+design,+backend,+data+platforms;[ok]+now:+research+data+platforms+at+HZDR;[ok]+built:+Parallel,+a+smart+parking+platform;[ok]+building:+Autobot,+customer+messaging;[ok]+background:+electronics+engineering" alt="whoami">
+  <br>
+  <a href="https://www.linkedin.com/in/arya-adkoli/"><img src="https://img.shields.io/badge/linkedin-arya--adkoli-4E9A06?logo=linkedin&labelColor=2E3436" alt="LinkedIn"></a>
+  <a href="mailto:adkoliarya@gmail.com"><img src="https://img.shields.io/badge/email-adkoliarya%40gmail.com-3465A4?logo=gmail&labelColor=2E3436" alt="Email"></a>
+  <a href="https://orcid.org/0009-0007-7360-6619"><img src="https://img.shields.io/badge/orcid-0009--0007--7360--6619-555753?logo=orcid&labelColor=2E3436" alt="ORCID"></a>
+</p>
 
-I'm Arya. I design and build complete systems that are clean, fast, and built to scale.  
-I look into every aspect of production and I am all about doing things right — from architecture to implementation.
+```console
+arya@dresden:~$ cat about.txt
+Hi, I'm Arya, a software engineer in Dresden, Germany.
+I design and build complete software systems, from the structure and
+servers to the data and the screens people use.
 
-###
+Specialties   System design, backend development, data platforms
+Education     M.Sc. Computer Science, TU Dresden
+Background    Electronics engineering, then software
+```
 
-<h2 align="left">Tech I work with</h2>
+## Currently
 
-###
+**HZDR** · Working student, Scientific Data Management
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 40px;" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px;" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height: 40px;" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 40px;" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height: 40px;" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px;" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px;" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 40px;" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height: 40px;" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="height: 40px;" alt="Raspberry Pi" />
-</div>
+HZDR is a Helmholtz research center in Dresden. I help build the software scientists use to find, organize and share their research data, mainly on [HELIPORT](https://heliport.hzdr.de) and [PaN-Space](https://pan-space.panosc.eu). PaN-Space brings data search, storage, analysis tools and training for European photon and neutron research into one place.
 
-###
+**TU Dresden** · M.Sc. Computer Science
 
-<h2 align="left">What I'm building</h2>
+Specializing in System Architecture, Visual Computing & Machine Learning, and Computer Engineering & High Performance Computing.
 
-###
+## Projects
 
-**Founding System Architect and Lead Engineer** [@Parallel Parking Solutions Inc.](https://github.com/Parallel-Parking-Solutions-Inc) - a startup reimagining urban mobility through full-scale smart parking automation.
-Architected and deployed the entire technology stack: backend systems, infrastructure, CI/CD pipelines, analytics engines, internal tools, and admin dashboards.
+### [Parallel](https://www.parkwithparallel.com)
 
-Currently pursuing **M.Sc. in Computer Science at TU Dresden**.
+Founding team member, system architect & lead engineer at [Parallel Parking Solutions](https://github.com/Parallel-Parking-Solutions-Inc)
 
-<details>
-  <summary><h2>Publications & Research</h2></summary>
-  <p style="font-size: 14px;">Some of my research work that explores the intersection of machine learning, embedded systems, and real-world applications:</p>
+Parallel is a parking startup that lets lots run without gates, paper tickets or pay machines. As part of the founding team, I designed the full technical system and built and launched it end to end.
 
-  <ul style="font-size: 14px;">
-    <li>
-      <a href="https://ieeexplore.ieee.org/document/10547996" target="_blank">
-        Real-Time Intelligent Surveillance System
-      </a><br/>
-      <i>10th International Conference on Applied System Innovation (ICASI), IEEE, 2024</i>
-    </li>
-    <br/>
-    <li>
-      <a href="https://link.springer.com/chapter/10.1007/978-981-97-4149-6_27" target="_blank">
-        Optimal Urban Emergency Routing Using Real-Time Audio Recognition and Graph Theory-Based Path Planning
-      </a><br/>
-      <i>International Conference On Innovative Computing And Communication, Springer, 2024</i>
-    </li>
-  </ul>
-</details>
+| Feature | What it does |
+|---|---|
+| Automatic plate recognition | Cameras read license plates to track each parking session and spot violations automatically |
+| Automatic payments | Drivers are billed in real time and pay automatically through Stripe |
+| Driver app | Free spots, live occupancy, payment and violation alerts, parking history ([Android](https://play.google.com/store/apps/details?id=com.parkwithparallel.app)) |
+| Operator dashboard | Parking, payments and enforcement in one place, with insights that help recover up to 20% in lost revenue |
+| Behind the scenes | Servers, AWS setup, automated testing and deployment, analytics, internal tools |
 
-###
+Built with: Java, Spring Boot, React, TypeScript, AWS (EBS, RDS), Stripe
 
-<details>
-  <summary><h2>Industry Projects I've Contributed To</h2></summary>
+### [Autobot](https://autobot.urvanidhi.com)
 
-  <ul style="font-size: 14px;">
-    <li>
-      <strong>Bosch Global Software Technologies — Summer Intern</strong><br/>
-      Configured and automated CAN frame setups for ECUs, delivering integration-ready solutions to an OEM and improving development efficiency.
-    </li>
-    <br/>
-    <li>
-      <strong>Bosch Global Software Technologies — Software Developer Intern</strong><br/>
-      Designed a real-time edge computing system for an OEM client and implemented ML-based analytics for tire condition monitoring, with mobile data visualization.
-    </li>
-    <br/>
-    <li>
-      <strong>PESU C-IoT — Machine Learning Intern</strong><br/>
-      Built a self-navigating vehicle using computer vision, and streamlined traffic sign data processing with Python and OpenCV.
-    </li>
-  </ul>
-</details>
+A platform that automates customer messages for businesses. It imports contact lists, groups customers and sends follow-ups on WhatsApp, SMS and email at the right time, without spamming anyone. Several businesses can use it at once, each with their own data.
+
+```console
+import contacts → group them → schedule follow-ups → send → track results
+```
+
+Built with: Next.js, TypeScript, Prisma, PostgreSQL, Redis, BullMQ, NextAuth
+
+## Skills
+
+| Area | |
+|---|---|
+| Languages | Java, TypeScript, Python, C++ |
+| Backend | Spring Boot, Node.js, REST APIs, Prisma |
+| Frontend | React, Next.js, dashboards |
+| Data | PostgreSQL, Redis, data modeling, data pipelines, research metadata (FAIR, DataCite) |
+| Cloud & DevOps | AWS, CI/CD, Linux |
+| Also | System design, computer vision (OpenCV), embedded systems |
+
+## Publications
+
+- [PaN-Space: Photon and Neutron Data Management Environment for EOSC](https://doi.org/10.5281/zenodo.22710244), poster, HZDR, 2026, with Martin Voigt, David Pape and Oliver Knodel
+- [Real-Time Intelligent Surveillance System](https://ieeexplore.ieee.org/document/10547996), IEEE ICASI, 2024
+- [Optimal Urban Emergency Routing Using Real-Time Audio Recognition and Graph Theory-Based Path Planning](https://link.springer.com/chapter/10.1007/978-981-97-4149-6_27), Springer ICICC, 2024
+
+## Earlier experience
+
+I started in electronics engineering, working on car electronics and smart devices, before moving fully into software.
+
+- **Bosch Global Software Technologies**, summer intern: automated the setup of communication between car control units (CAN and ECUs) for a car manufacturer, making their development faster.
+- **Bosch Global Software Technologies**, software developer intern: built a real-time system for a car manufacturer that monitors tire condition using machine learning, with results shown in a mobile app.
+- **PESU C-IoT**, machine learning intern: built a self-navigating vehicle using computer vision, and sped up traffic sign data processing with Python and OpenCV.
+
+```console
+arya@dresden:~$ logout
+```
