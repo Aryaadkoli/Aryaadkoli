@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=800&pause=200&color=3465A4&multiline=true&repeat=false&width=560&height=170&lines=$+whoami;[ok]+software+engineer;[ok]+focus:+system+design,+backend,+data+platforms;[ok]+now:+research+data+platforms+at+HZDR;[ok]+built:+Parallel,+a+smart+parking+platform;[ok]+building:+Autobot,+customer+messaging;[ok]+background:+electronics+engineering" alt="whoami">
   <br>
   <a href="https://www.linkedin.com/in/arya-adkoli/"><img src="https://img.shields.io/badge/linkedin-arya--adkoli-4E9A06?logo=linkedin&labelColor=2E3436" alt="LinkedIn"></a>
-  <a href="mailto:adkoliarya@gmail.com"><img src="https://img.shields.io/badge/email-adkoliarya%40gmail.com-3465A4?logo=gmail&labelColor=2E3436" alt="Email"></a>
+  <a href="mailto:adkoliarya@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-3465A4?logo=gmail&labelColor=2E3436" alt="Email"></a>
   <a href="https://orcid.org/0009-0007-7360-6619"><img src="https://img.shields.io/badge/orcid-0009--0007--7360--6619-555753?logo=orcid&labelColor=2E3436" alt="ORCID"></a>
 </p>
 
 ```console
-arya@dresden:~$ cat about.txt
-Hi, I'm Arya, a software engineer in Dresden, Germany.
+arya@localhost:~$ cat about.txt
+Hi, I'm Arya, a software engineer.
 I design and build complete software systems, from the structure and
 servers to the data and the screens people use.
 
@@ -23,7 +23,7 @@ Background    Electronics engineering, then software
 
 **HZDR** · Working student, Scientific Data Management
 
-HZDR is a Helmholtz research center in Dresden. I help build the software scientists use to find, organize and share their research data, mainly on [HELIPORT](https://heliport.hzdr.de) and [PaN-Space](https://pan-space.panosc.eu). PaN-Space brings data search, storage, analysis tools and training for European photon and neutron research into one place.
+HZDR is a Helmholtz research center. I help build the software scientists use to find, organize and share their research data, mainly on [HELIPORT](https://heliport.hzdr.de) and [PaN-Space](https://pan-space.panosc.eu). PaN-Space brings data search, storage, analysis tools and training for European photon and neutron research into one place.
 
 **TU Dresden** · M.Sc. Computer Science
 
@@ -83,5 +83,5 @@ I started in electronics engineering, working on car electronics and smart devic
 - **PESU C-IoT**, machine learning intern: built a self-navigating vehicle using computer vision, and sped up traffic sign data processing with Python and OpenCV.
 
 ```console
-arya@dresden:~$ logout
+arya@localhost:~$ logout
 ```
